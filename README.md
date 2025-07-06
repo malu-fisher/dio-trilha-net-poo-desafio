@@ -91,11 +91,10 @@ Recebendo ligação...
 Instalando o aplicativo 'Instagram' no iPhone.
 
 🧠 Sobre o Desafio
-
+```
 Este projeto foi desenvolvido como parte do desafio prático de orientação a objetos,
 integrante da trilha End to End Engineering promovida pela
-[Digital Innovation One - DIO](https://www.dio.me/sign-up?ref=4Z05DTHSFX)
-em parceria com a WEX.
+[Digital Innovation One - DIO](https://www.dio.me/sign-up?ref=4Z05DTHSFX/) em parceria com a WEX.
 
 
 
